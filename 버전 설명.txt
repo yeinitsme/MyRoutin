@@ -1,7 +1,0 @@
-routine_c_test_v2.1 : 클로드 / 리포트 기능 추가 및 수정
-
-routine_c2.1_g_test_v2.2.html  : 클로드 2.1 파일 기반 수정 / 제미나이로 / 당일완료 항목 잠금, 실수취소 팝업기능
-
-routine_c2.1_g_test_v2.3.html : 제미나이 / 상세 리포트 수정 / 네비게이션 바 추가고정
-
-routine_c2.1_g_test_v2.4.html : 제미나이 / 일일 루틴 바운스 애니메이션 분리
