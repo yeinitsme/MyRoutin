@@ -1,4 +1,4 @@
-const CACHE_NAME = 'jachwi-app-cache-v1';
+const CACHE_NAME = 'jachwi-app-cache-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html' // 현재 사용 중인 HTML 파일명으로 지정
